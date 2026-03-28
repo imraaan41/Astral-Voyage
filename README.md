@@ -19,27 +19,6 @@ Technologien im Projekt:
 
 ---
 
-# Projektstruktur
-
-Astral-Voyage
-│
-├── frontend/ # Flutter App
-│ ├── lib/
-│ ├── android/
-│ ├── ios/
-│ ├── web/
-│ ├── windows/
-│ └── pubspec.yaml
-│
-├── backend/ # Node.js Backend
-│ ├── server.js
-│ ├── package.json
-│ └── node_modules/
-│
-└── README.md
-
----
-
 # Voraussetzungen
 
 Folgende Software muss installiert sein, um das Projekt zu starten.
